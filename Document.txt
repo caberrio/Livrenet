@@ -1,4 +1,0 @@
-Solo tome bootstrap para el diseño nada mas.
-esta es la documentacion http://getbootstrap.com/
-
-Con esto puedes modificar y hacer el diseño como mejor te parezca en las demas vistas
